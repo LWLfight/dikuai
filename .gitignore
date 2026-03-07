@@ -361,3 +361,26 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# GIS 数据文件（大型 Shapefile 文件）
+*.shp
+*.dbf
+*.shx
+*.prj
+*.sbn
+*.sbx
+*.fbn
+*.fbx
+*.ain
+*.aih
+*.atx
+*.cpg
+*.qix
+*.xml
+*.output/
+**/guangdong-260107-free.shp/**
+**/hunan-260107-free.shp/**
+**/beijing-260107-free.shp/**
+**/建成区 -2025/**
+**/changsha.output/**
+**/guangzhou.output/**

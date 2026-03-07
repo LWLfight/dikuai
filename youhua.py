@@ -6,7 +6,7 @@ from shapely.validation import make_valid
 import math
 
 # 定义路径
-city = 'changsha'
+city = 'guangzhou'
 # 确保路径相对于脚本本身，而不是当前工作目录
 base_dir = os.path.dirname(os.path.abspath(__file__))
 output_dir = os.path.join(base_dir, f'{city}.output')

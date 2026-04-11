@@ -1,6 +1,4 @@
-"""
-有需要这个源码和Python软件的同学可以一键三连，然后在评论区留言,我会发给大家,或者也可以直接私信我领取！
-"""
+
 import requests
 from jsonpath import jsonpath
 from openpyxl import Workbook
